@@ -1,0 +1,46 @@
+1.Describe the characteristics of Big data in detail
+   1.Volume:
+
+        In Big Data,a particular data can be considered as Big Data or not is depending upon the volume of data
+   
+   2.Variety:
+
+        It defines the type and nature of data.for example structured data and unstructured data
+   
+   3.Velocity:
+
+        It defines the speed of data processing for meeting all the demands and challenges.
+   
+   4.Veracity
+
+        It defines the uncertainty of the data and trustworthiness of data
+
+   5.Value:
+
+        It refers to the benefit of using big Data.
+
+2. Explain the possible solutions to handle Big data.
+    
+     Scale-up:
+
+          1.we cannot retrieve the file when failure occurs.
+          2.Parallel processing is used for processing the resources.
+
+     scale-out:
+
+           1.we can retrieve the file when failure occurs.
+           2.It divides the large amount of data into small pieces before processing.
+
+3.Explain the differences between scaling up and scaling out
+
+     Scale-up:
+
+          1.Scale-up means adding resources to a single node in a system.
+          2.we cannot retrieve the file when failure occurs.
+          3.Parallel processing is used for processing the resources.
+
+     scale-out:
+
+          1.Scale-out means adding more nodes to a system.
+          2.we can retrieve the file when failure occurs.
+          3.It divides the large amount of data into small pieces before processing.
